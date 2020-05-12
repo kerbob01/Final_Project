@@ -1,8 +1,7 @@
-CREATE table election_data (
+CREATE table election_data_by_state (
 year int,
 state varchar(255),
 state_po varchar(255),
-county varchar(255),
 FIPS varchar(255),
 office varchar(255),
 candidate varchar(255),
