@@ -1,0 +1,4 @@
+https://tympanus.net/Development/DistortedMenuLinkEffects/index.html
+https://tympanus.net/Development/AnimateSVGTextPath/
+https://tympanus.net/codrops/2019/09/04/a-configurator-for-creating-custom-webgl-distortion-effects/
+https://tympanus.net/codrops/2019/11/05/creative-webgl-image-transitions/
