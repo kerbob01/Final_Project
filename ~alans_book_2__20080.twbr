@@ -9466,7 +9466,7 @@
       </cards>
       <simple-id uuid='{19086CFC-2AE7-47E7-BAFF-EEC8DA35D078}' />
     </window>
-    <window class='worksheet' maximized='true' name='experiment with states'>
+    <window class='worksheet' name='experiment with states'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -9527,7 +9527,7 @@
       <active id='3' />
       <simple-id uuid='{048FCA72-A2B2-4AE5-822E-DC12AAEB69FB}' />
     </window>
-    <window class='worksheet' name='Sheet 7'>
+    <window class='worksheet' maximized='true' name='Sheet 7'>
       <cards>
         <edge name='left'>
           <strip size='160'>
